@@ -161,9 +161,6 @@
     <ClInclude Include="..\source\diffuse\mit_hrtf_diffuse_88200.h" />
     <ClInclude Include="..\source\diffuse\mit_hrtf_diffuse_96000.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\doc\main doc page.txt" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

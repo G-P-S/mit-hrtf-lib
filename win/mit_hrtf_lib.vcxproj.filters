@@ -57,7 +57,4 @@
       <Filter>Header Files\Diffuse</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\doc\main doc page.txt" />
-  </ItemGroup>
 </Project>
