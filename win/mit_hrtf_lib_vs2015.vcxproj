@@ -22,6 +22,7 @@
     <ProjectGuid>{699D0CE5-BF35-4BD5-A5C9-C53F496E254F}</ProjectGuid>
     <RootNamespace>mit_hrtf_lib</RootNamespace>
     <Keyword>Win32Proj</Keyword>
+    <ProjectName>mit_hrtf_lib</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
